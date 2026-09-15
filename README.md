@@ -1,5 +1,4 @@
 # KLH_CSE_2026_DDCA_3_8-Bit-ALU-Design
-
-klkasdnajncjancjancjancjancjancjajcnajkckjcsnjasn
-nnnnknknknknkn
-kjnkjnjnj
+htfytftyufgf
+jfutyfuy6rfhy
+jouyhiuybiyv
