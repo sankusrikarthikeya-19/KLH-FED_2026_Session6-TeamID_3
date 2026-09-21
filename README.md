@@ -1,4 +1,4 @@
-# REDME: Design and Simulation of 8-Bit Signed Arithmetic Unit.
+# RAEDME: Design and Simulation of 8-Bit Signed Arithmetic Unit.
 
 ## OVERVIEW
 
