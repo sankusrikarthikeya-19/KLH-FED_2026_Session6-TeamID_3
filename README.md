@@ -13,7 +13,7 @@ It covers the circuit design, working process, Two’s Complement, and simulatio
 ## Slide Deck Overview(10 Slides)
 
 => **Slide 1 – Introduction**
-   - Introduces the project, team members, department, and institution.
+   - Introduces the project,team members, department, and institution.
 
 => **Slide 2 – Problem & Abstract**
    - Explains why computers need to perform calculations with both positive and negative numbers and why this project is useful for learning digital design.
