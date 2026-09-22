@@ -7,7 +7,7 @@ Design and Simulation of an 8-Bit Signed Arithmetic Unit
 "**, developed for (DDCA) course.
 
 This PPT explains the design and simulation of an 8-bit signed arithmetic unit for addition and subtraction.
-It covers the circuit design, working process, Two’s Complement,and simulation testing.
+It covers the circuit design, working process, Two’s Complement, and simulation testing.
 
 ---
 ## Slide Deck Overview(10 Slides)
