@@ -83,4 +83,4 @@ To run and verify the circuit in **Logisim**:
 | `4` | `15` | `-8` | `Addition` | `7` | **✓ Pass** |
 | `5` | `3` | `10` | `Subtraction` | `-7` | **✓ Pass** |
 
-**Verification:** The circuit is tested with both positive and negative numbers for addition and subtraction. The expected and actual outputs should match for every test case. These test cases are directly based on the verification results in your project.
+**Verification:** The circuit is tested with both positive and negative numbers for addition and subtraction.The expected and actual outputs should match for every test case. These test cases are directly based on the verification results in your project.
