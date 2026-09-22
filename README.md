@@ -1,4 +1,4 @@
-# README: Design and Simulation of 8-Bit Signed Arithmetic Unit.
+# README : Design and Simulation of 8-Bit Signed Arithmetic Unit.
 
 ## OVERVIEW
 
