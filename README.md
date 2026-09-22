@@ -28,7 +28,7 @@ It covers the circuit design, working process, Two’s Complement,and simulation
    - Explains what an 8-bit system is, how signed numbers work, and how Two’s Complement is used for negative numbers.
 
 => **Slide 6 – System Design**
-   - Shows the main parts of the system, including the input,control unit, ALU, and output.
+   - Shows the main parts of the system, including the input, control unit, ALU, and output.
 
 => **Slide 7 – Implementation**
    - Explains how the circuit is built using full adders, logic gates, multiplexers, and Two’s Complement.
