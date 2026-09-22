@@ -34,7 +34,7 @@ It covers the circuit design, working process, Two’s Complement,and simulation
    - Explains how the circuit is built using full adders, logic gates, multiplexers, and Two’s Complement.
 
 => **Slide 8 – Working Process**
-   - Shows how the system takes two numbers, selects an operation, processes them, and produces the final result.
+   - Shows how the system takes two numbers, selects an operation, processes them,and produces the final result.
 
 => **Slide 9 – Testing**
    - Shows different addition and subtraction examples and confirms that the circuit gives the correct results.
